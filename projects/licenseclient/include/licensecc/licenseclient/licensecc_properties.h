@@ -26,7 +26,7 @@
  * file.
  */
 
-#define LCC_PROJECT_NAME "DEFAULT"
+#define LCC_PROJECT_NAME "licenseclient"
 
 //License retrieval configuration
 #define FIND_LICENSE_NEAR_MODULE true
